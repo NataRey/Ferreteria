@@ -19,7 +19,7 @@ cotainerProduct.innerHTML =
                         <option>Gris</option>
                     </select>
                     <input class="formulario__cantidad" type="number" placeholder="cantidad" min="1">
-                    <a href="carrito.html" id="agregarAlCarritoBtn" class="formulario__submit" type="submit" value="Agregar al carrito" >Agregar al carrito</a>
+                    <input id="agregarAlCarritoBtn" class="formulario__submit" type="submit" value="Agregar al carrito" >
                     <input type="text" id="finalizarCompraBtn" class="formulario__submit" type="submit" value="Finalizar compra">
                     
                     
@@ -92,7 +92,7 @@ if (finalizarCompraBtn) {
       alert('Por favor, selecciona un color y una cantidad');
     } else {
       // alert('Gracias por preferirnos');
-      window.location.href = './carrito.html';
+      window.location.href = 'carrito.html';
     }
   });
 }
