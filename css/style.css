@@ -36,6 +36,10 @@ img{
     margin: 1 2 3 4;
     max-width: 100%;
 }
+.image-optimization {
+  max-width: 100%; 
+}
+
 .contenedor{
     max-width: 120rem;
     margin: 0 auto;
@@ -104,6 +108,9 @@ h3 {
     .grid {
         grid-template-columns: repeat(3, 1fr);
     }
+    .image-optimization {
+    max-width: 200px; /* Tamaño deseado para pantallas más grandes */
+  }
 }
 /*Productos**/
 .producto{
