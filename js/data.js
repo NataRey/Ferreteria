@@ -3,8 +3,8 @@
 const data = [
     {
         id:1,
-        nombre: "toma de caucho",
-        precio: 6.800,
+        nombre: "toma 1",
+        precio: 7.500,
         imagen: "./img/1.png"
     },
     {
