@@ -120,7 +120,7 @@ const fincompra = () => {
 
   
   vaciarCarrito()
-  window.location.href='/index.html'
+  window.location.href='../index.html'
 }
 
 /* ------------------------- vaciar todo el carrito ------------------------- */
