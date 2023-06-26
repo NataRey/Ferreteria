@@ -93,15 +93,15 @@ const data = [
     },
     {
         id:16,
-        nombre: "toma de caucho con polo",
+        nombre: "Tubo enrroscar",
         precio: 5500,
         imagen: "./img/16.jpg"
     },
     {
         id:17,
-        nombre: "toma de caucho con polo",
+        nombre: "Tubo",
         precio: 9500,
-        imagen: "./img/17.jpg.jpg"
+        imagen: "./img/17.jpg"
     },
     {
         id:18,
