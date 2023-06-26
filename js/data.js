@@ -11,19 +11,19 @@ const data = [
         id:2,
         nombre: "toma doble tapa aluminio",
         precio: 6.800,
-        imagen: "../img/2.png"
+        imagen: "./img/2.png"
     },
     {
         id:3,
         nombre: "toma + interruptor",
         precio: 6.800,
-        imagen: "../img/3.png"
+        imagen: "./img/3.png"
     },
     {
         id:4,
         nombre: "toma de caucho con polo",
         precio: 6.800,
-        imagen: "../img/4.png"
+        imagen: "./img/4.png"
     },
     {
         id:5,
