@@ -130,3 +130,6 @@ const data = [
 
 
 ]
+data.forEach((item) => {
+  item.imageClass = "image-optimization";
+});
