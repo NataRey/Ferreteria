@@ -3,25 +3,25 @@
 const data = [
     {
         id:1,
-        nombre: "toma de caucho",
+        nombre: "Toma de corriente duplex",
         precio: 6.800,
         imagen: "../img/1.png"
     },
     {
         id:2,
-        nombre: "toma doble tapa aluminio",
+        nombre: "enchufe rendondo cauho de 2p",
         precio: 6.800,
         imagen: "../img/2.png"
     },
     {
         id:3,
-        nombre: "toma + interruptor",
+        nombre: "Toma aerea caucho tipo domestica",
         precio: 6.800,
         imagen: "../img/3.png"
     },
     {
         id:4,
-        nombre: "toma de caucho con polo",
+        nombre: "enchufe de goma domestico",
         precio: 6.800,
         imagen: "../img/4.png"
     },
@@ -33,13 +33,13 @@ const data = [
     },
     {
         id:6,
-        nombre: "toma de caucho con polo",
+        nombre: "enchufe chato",
         precio: 6.800,
         imagen: "../img/6.png"
     },
     {
         id:7,
-        nombre: "toma de caucho con polo",
+        nombre: "Toma aerea caucho tipo domestica",
         precio: 6.800,
         imagen: "../img/7.png"
     },
@@ -51,7 +51,7 @@ const data = [
     },
     {
         id:9,
-        nombre: "toma de caucho con polo",
+        nombre: "Toma aerea caucho tipo domestica",
         precio: 6.800,
         imagen: "../img/9.png"
     },
@@ -63,31 +63,31 @@ const data = [
     },
     {
         id:11,
-        nombre: "toma de caucho con polo",
+        nombre: "toma caucho 15amp con polo",
         precio: 6.800,
         imagen: "../img/11.png"
     },
     {
         id:12,
-        nombre: "toma de caucho con polo",
+        nombre: "Toma de corriente duplex",
         precio: 6.800,
         imagen: "../img/12.png"
     },
     {
         id:13,
-        nombre: "toma de caucho con polo",
+        nombre: "Toma de corriente duplex",
         precio: 6.800,
         imagen: "../img/13.png"
     },
     {
         id:14,
-        nombre: "toma de caucho con polo",
+        nombre: "Toma de corriente + interruptor",
         precio: 6.800,
         imagen: "../img/14.png"
     },
     {
         id:15,
-        nombre: "toma de caucho con polo",
+        nombre: "toma triple caucho",
         precio: 6.800,
         imagen: "../img/15.png"
     },
@@ -105,25 +105,25 @@ const data = [
     },
     {
         id:18,
-        nombre: "toma de caucho con polo",
+        nombre: "codo pvc 3 pulgadas",
         precio: 6.800,
         imagen: "../img/18.jpg"
     },
     {
         id:19,
-        nombre: "toma de caucho con polo",
+        nombre: "registro pvc rosca",
         precio: 6.800,
         imagen: "../img/19.jpg"
     },
     {
         id:20,
-        nombre: "toma de caucho con polo",
+        nombre: "codo pvc sanitario",
         precio: 6.800,
         imagen: "../img/20.jpg"
     },
     {
         id:21,
-        nombre: "toma de caucho con polo",
+        nombre: "tubo pvc",
         precio: 6.800,
         imagen: "../img/21.jpg"
     },
