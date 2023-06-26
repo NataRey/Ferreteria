@@ -13,7 +13,7 @@ const data = [
         precio: 3200,
         imagen: "./img/2.png"
     },
-    {
+    { 
         id:3,
         nombre: "Toma aerea caucho tipo domestica",
         precio: 4000,
