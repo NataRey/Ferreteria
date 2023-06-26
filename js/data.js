@@ -9,7 +9,7 @@ const data = [
     },
     {
         id:2,
-        nombre: "enchufe rendondo cauho de 2",
+        nombre: "enchufe rendondo cauho de 2p",
         precio: 6.800,
         imagen: "./img/2.png"
     },
