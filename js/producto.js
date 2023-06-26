@@ -92,7 +92,7 @@ if (finalizarCompraBtn) {
       alert('Por favor, selecciona un color y una cantidad');
     } else {
       // alert('Gracias por preferirnos');
-      window.location.href = 'carrito.html';
+      window.location.href = '../carrito.html';
     }
   });
 }
