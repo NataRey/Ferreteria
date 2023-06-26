@@ -1,9 +1,9 @@
 let producto = JSON.parse(localStorage.getItem('dataProductoVer'));
 console.log(producto)
 
-const containerProduct = document.querySelector('.product-contain');
+const cotainerProduct = document.querySelector('.product-contain');
 
-containerProduct.innerHTML =
+cotainerProduct.innerHTML =
   `
 <div class="toma">
             <img class="toma__imagen" src="${producto.imagen}" alt="imagen del producto">
