@@ -5,7 +5,7 @@ const data = [
         id:1,
         nombre: "toma de caucho",
         precio: 6.800,
-        imagen: "../img/1.png"
+        imagen: "./img/1.png"
     },
     {
         id:2,
